@@ -1,0 +1,17 @@
+========================================
+      UNIVERSITY TIMETABLE REPORT
+========================================
+
+TEACHERS:
+  - Sir Nadir Abbas
+
+LTs:
+  - Nadir (Capacity: 3)
+
+COURSES:
+  - lca (3 credits)
+
+TIMETABLE:
+  Monday 8:00[D[D[D[D0-09;30 | lca | Sir Nadir Abbas | Nadir
+
+========================================
